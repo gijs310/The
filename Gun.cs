@@ -5,6 +5,7 @@ public class Gun : MonoBehaviour
 {
     public float damage = 10f;
     public float range = 100f;
+    public gameObject player;
 
     public Camera fpsCam;
 
